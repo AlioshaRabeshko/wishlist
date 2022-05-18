@@ -1,0 +1,19 @@
+{
+  "name": "wishlist",
+  "version": "0.0.1",
+  "description": "Whishlist web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlioshaRabeshko/wishlist.git"
+  },
+  "author": "Aliosha Rabeshko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlioshaRabeshko/wishlist/issues"
+  },
+  "homepage": "https://github.com/AlioshaRabeshko/wishlist#readme"
+}
